@@ -14,10 +14,10 @@ Promover la conciencia ambiental de forma accesible mediante una herramienta web
 
 | Nombre               | Rol          |
 |----------------------|---------------|
-| [Nombre 1]           | Líder de Proyecto |
-| [Nombre 2]           | Diseñador UI/UX  |
-| [Nombre 3]           | Desarrollador / Integrador |
-| [Nombre 4]           | Documentador    |
+| Raul Alanis           | Líder de Proyecto |
+| Ana Vargas           | Diseñador UI/UX  |
+| Jesus Galindo           | Desarrollador / Integrador |
+| Juan de Dios Perez         | Documentador    |
 
 ---
 
