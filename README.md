@@ -1,6 +1,15 @@
 # 💼 Estimador de Presupuesto - Gemini
 
-Esta es una interfaz de usuario en HTML/CSS/JavaScript que permite a los usuarios solicitar presupuestos personalizados para eventos. El sistema recopila información del evento y la envía a un backend (por ejemplo, `consulta.php`) que genera una respuesta estimada de costos, presentada de manera clara al usuario.
+Esta es una interfaz de usuario en HTML/CSS/JavaScript que permite a los usuarios solicitar presupuestos personalizados para eventos. El sistema recopila información del evento y la envía a un backend que genera una respuesta estimada de costos, presentada de manera clara al usuario.
+
+## Objetivo del proyecto
+
+## Integrantes y Roles
+
+* Raul
+* Juan de Dios
+* Ana Vargas
+* Jesus Eduardo
 
 ## ✨ Características
 
@@ -62,10 +71,10 @@ Esta es una interfaz de usuario en HTML/CSS/JavaScript que permite a los usuario
 * El backend (`consulta.php`) no está incluido en este archivo y **debes implementarlo tú**.
 * Si se espera una integración con un modelo como Gemini o una API de IA, asegúrate de manejar correctamente los tokens y respuestas.
 
-## 📸 Captura de Pantalla (opcional)
+## 📸 Captura de Pantalla
 
-> Puedes agregar una imagen del formulario aquí con una línea como:
-> `![Captura de pantalla del formulario](screenshot.png)`
+> ![image](https://github.com/user-attachments/assets/76892e58-9fe7-4e07-a6ab-36837a0c07e9)
+
 
 ## 🧾 Licencia
 
