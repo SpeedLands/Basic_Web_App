@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f0fdf4;
+  color: #1b4332;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.container {
+  flex: 1;
+  text-align: center;
+  padding: 2rem;
+}
+
+h1 {
+  color: #2d6a4f;
+}
+
+#eco-tip {
+  font-size: 1.5rem;
+  margin: 2rem 0;
+}
+
+button {
+  background-color: #40916c;
+  color: white;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #2d6a4f;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #d8f3dc;
+  font-size: 0.9rem;
+}
