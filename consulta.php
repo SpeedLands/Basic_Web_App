@@ -1,6 +1,6 @@
 <?php
 
-$apiKey = 'AIzaSyCWI88ZVXHIpuYj2OsR_Hk35jbgKh6HdFs'; 
+$apiKey = // your api key; 
 
 // Recibir datos del formulario 
 $data = json_decode(file_get_contents('php://input'), true);
